@@ -1,0 +1,1 @@
+A simple PWA where people can log in to CRUD their personal notes.
