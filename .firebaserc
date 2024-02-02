@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fire-notes-99c74": {
+      "hosting": {
+        "fire-notes": [
+          "fire-notes-99c74"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fire-notes-99c74"
+  }
+}
